@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KenieAUllman
 - 👀 I’m interested in coding! Almost anything about full stack, though I have a particular love of front-end. 
-- 🌱 I’m currently learning javascript, sql, python, some aspects of cybersecurity! 
-- 💞️ I’m looking to collaborate on game design, databases, or really anything new that I can gain experience from! 
+- 🌱 I’m currently learning javascript, sql, python, data analytics some aspects of cybersecurity! 
+- 💞️ I’m looking to collaborate on data projects with a focus on International Affairs, Economics, and Global Enterprise.  
 - 📫 Reach me @ ullman.kena@gmail.com
